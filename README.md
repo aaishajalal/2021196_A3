@@ -5,7 +5,7 @@ This repository showcases the implementation of Collaborative Filtering using De
 
 ## Files Included
 
-- `assignment_notebook.ipynb`: Google Colab notebook that demonstrates the implementation of MLP and Autoencoder models.
+- `main.ipynb`: Google Colab notebook that demonstrates the implementation of MLP and Autoencoder models.
 - Details on the dataset, data preprocessing, model training, and evaluation.
 
 ## Instructions for Running
